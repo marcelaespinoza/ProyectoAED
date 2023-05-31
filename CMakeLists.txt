@@ -9,7 +9,7 @@ include_directories(blockchain)
 include_directories(sfml)
 
 add_executable(ProyectoAED
-        main.cpp estructuras/double_list.h estructuras/hash.h estructuras/heap.h)
+        main.cpp estructuras/double_list.h estructuras/hash.h estructuras/heap.h blockchain/block.h estructuras/trie.h blockchain/transaccion.h estructuras/b+tree.h blockchain/blockchain.h)
 
 # Encontrar SFML
 find_package(SFML 2.5 COMPONENTS system window graphics audio REQUIRED)
