@@ -24,7 +24,7 @@ complete
 ## **SHA256**
 El SHA256 es un algoritmo criptografico desarrollado por NSA( Agencia de Seguridad Nacional de los Estados Unidos ) y se principal objetivo es generar un hash unico a partir de un cualquier informacion entrante al bloque de Blockchain. 
 SHA-256 es unidireccional, es decir que cualquier tipo de entrada de informacion al bloque nos da una salida de 256 bits(32 Bytes) y cualquier tipo de cambio minimo en al informacion genera una hash complatamente diferente.
-### *PROPIEDADES:*
+#### *PROPIEDADES:*
 - Resistencia a colisiones: La improbabilidad de que 2 tipos de datos diferentes generen el mismo hash.
 - Deterministico: Dando los mismo datos genera el mismo hash.
 - No invertible: A partir del mismo hash no se puede obtener la imformacion de los bloques.
