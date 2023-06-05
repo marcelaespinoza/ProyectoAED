@@ -4,12 +4,13 @@
 
 #ifndef PROYECTOAED_BLOCK_H
 #define PROYECTOAED_BLOCK_H
-#include <iostream>
-#include "b+tree.h"
-#include "hash.h"
-#include "double_list.h"
-#include "heap.h"
+#include<utility>
 #include "transaccion.h"
+#include "estructuras/b+tree.h"
+#include "estructuras/hash.h"
+#include "estructuras/heap.h"
+#include "estructuras/nodes.h"
+
 
 struct block {
 

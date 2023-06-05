@@ -1,3 +1,0 @@
-/Users/jleandrojm/CLION/ProyectoAED/cmake-build-debug/CMakeFiles/ProyectoAED.dir
-/Users/jleandrojm/CLION/ProyectoAED/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jleandrojm/CLION/ProyectoAED/cmake-build-debug/CMakeFiles/rebuild_cache.dir

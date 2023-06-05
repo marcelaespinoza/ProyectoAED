@@ -14,8 +14,8 @@ struct transaction {
     std::string date;
 
     transaction() = default;
-
     ~transaction() = default;
+
 };
 
 
